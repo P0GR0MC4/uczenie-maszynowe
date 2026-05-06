@@ -66,4 +66,4 @@ Plik PDF zawiera opis działania modeli, analizę wyników oraz wnioski końcowe
 
 ## Autor
 Krystian Figlak 100940
-Antoni Szczuraszek nr_albumu
+Antoni Szczuraszek 102585
